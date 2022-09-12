@@ -1,0 +1,17 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    height: 400px;
+    background-color: #c73d50;
+}
+
+.wave {
+    padding-top: 0rem;
+}
+
+.about {
+    padding-top: 7rem;
+}
